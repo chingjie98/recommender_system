@@ -20,6 +20,6 @@
 4) Word Embeddings (Word2Vec)
 
 
-Some misc knowledge:
+Some misc knowledge:<br>
 Bayesian average to rank items with ratings + counts instead of just looking at their ratings.
 Because items with 5 star ratings with only 2 ratings are not actually v popular vs an item with 4.5 star but 100+ ratings. 
