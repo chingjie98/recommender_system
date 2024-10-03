@@ -1,7 +1,7 @@
 ### Developing e-commerce recommender system using the following techniques:
 
 #### For collaborative filtering:
-1) Matrix Factorization
+1) Matrix Factorization using SVD
 2) NCF (Neural Collaborative Filtering)
 3) RNN for Sequential Recommendation
 4) Hybrid NCF + RNN
