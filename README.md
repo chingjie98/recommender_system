@@ -35,8 +35,8 @@ We can use simple approach such as euclidean distance / cosine similarity to mak
 Because, if we have 500k by 500k matrix, the result matrix size is huge. And the simple approach require the full size of matrix to make the prediction. 
 
 If we were to use matrix factorization instead, we are essentially decomposing the large matrix into 2 smaller ones. 
-1 for user matrix
-1 for item matrix
+<BR>1 for user matrix
+<BR>1 for item matrix
 
 Both matrix are small because they are embedded to capture the latent factors that are most contributing to the outcome. 
 
