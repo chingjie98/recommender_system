@@ -40,7 +40,7 @@ If we were to use matrix factorization instead, we are essentially decomposing t
 
 Both matrix are small because they are embedded to capture the latent factors that are most contributing to the outcome. 
 
-Matrix factorization assumes that the rating 𝑟𝑢,𝑖 given by user 𝑢 to movie 𝑖 can be approximated by the dot product of the latent factor vectors for user 𝑢 and movie 𝑖:
+Matrix factorization assumes that the rating 𝑟𝑢,𝑖 given by user 𝑢 to movie 𝑖 can be approximated by the dot product of the latent factor vectors for user 𝑢 and movie 𝑖:<BR>
 ru,i ≈ Pu⋅Qi
 
 Where:
