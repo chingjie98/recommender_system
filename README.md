@@ -43,8 +43,8 @@ Both matrix are small because they are embedded to capture the latent factors th
 Matrix factorization assumes that the rating 𝑟𝑢,𝑖 given by user 𝑢 to movie 𝑖 can be approximated by the dot product of the latent factor vectors for user 𝑢 and movie 𝑖:<BR>
 ru,i ≈ Pu⋅Qi
 
-Where:
-𝑃𝑢 is the u-th row of the user matrix 𝑃.
+Where:<br>
+𝑃𝑢 is the u-th row of the user matrix 𝑃.<br>
 𝑄𝑖 is the 𝑖-th row of the item matrix 𝑄.
 
 This means the predicted rating is the dot product of the user's latent factor vector and the movie's latent factor vector.
