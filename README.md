@@ -45,6 +45,7 @@ This means the predicted rating is the dot product of the user's latent factor v
 We can adopt a simple SGD optimizer to compare the actual and predicted rating as well, with the loss function being RMSE. 
 
 
+<br><br><br>
 Some misc knowledge:<br>
 Bayesian average to rank items with ratings + counts instead of just looking at their ratings.
 Because items with 5 star ratings with only 2 ratings are not actually v popular vs an item with 4.5 star but 100+ ratings. 
